@@ -8,7 +8,11 @@ Output of each program is a plot of length of each flagella vs time.
 Files include-:
 
 TM_shared_depoly.m-: Agent based simulation of active disassembly process with the option of including feedback and severing.
+
 two_flagella_motor_diff_tubulins_diff.m-: Agent based simulation of constant disassembly process with separate motors and tubulin pools.
+
 two_flagella_motor_diff_tubulins_shared.m-: Agent based simulation of constant disassembly process with separate motors pools but shared tubulin pool.
+
 two_flagella_motor_shared_tubulins_diff.m-: Agent based simulation of constant disassembly process with shared motors pool but separate tubulin pools.
+
 two_flagella_motor_shared_tubulins_shared.m-: Agent based simulation of constant disassembly process with shared motors and tubulin pool.
