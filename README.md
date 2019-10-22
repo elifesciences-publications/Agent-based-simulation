@@ -16,3 +16,6 @@ two_flagella_motor_diff_tubulins_shared.m-: Agent based simulation of constant d
 two_flagella_motor_shared_tubulins_diff.m-: Agent based simulation of constant disassembly process with shared motors pool but separate tubulin pools with the option of including severing.
 
 two_flagella_motor_shared_tubulins_shared.m-: Agent based simulation of constant disassembly process with shared motors and tubulin pool with the option of including severing.
+
+### This code is associated with the paper from Fai et al., "Length regulation of multiple flagella that self-assemble from a shared pool of components". eLife, 2019. http://dx.doi.org/10.7554/eLife.42599
+
